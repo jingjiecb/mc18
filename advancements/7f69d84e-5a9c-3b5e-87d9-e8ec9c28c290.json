@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2022-04-10 10:41:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2022-04-09 16:47:55 +0000"
@@ -116,6 +122,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2022-04-10 10:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2022-04-10 10:41:24 +0000"
     },
     "done": true
   },
@@ -489,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2022-04-10 10:41:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2022-04-09 16:43:22 +0000"
@@ -801,6 +819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2022-04-10 10:41:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_cut_copper": "2022-04-09 17:36:24 +0000"
@@ -817,6 +841,7 @@
     "criteria": {
       "minecraft:pillager": "2022-04-10 10:23:55 +0000",
       "minecraft:skeleton": "2022-04-10 10:10:10 +0000",
+      "minecraft:spider": "2022-04-10 10:41:23 +0000",
       "minecraft:zombie": "2022-04-10 10:00:18 +0000"
     },
     "done": false
@@ -1121,6 +1146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2022-04-10 10:41:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-04-09 16:26:35 +0000"
@@ -1316,6 +1347,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2022-04-09 17:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2022-04-10 10:41:24 +0000"
     },
     "done": true
   },
