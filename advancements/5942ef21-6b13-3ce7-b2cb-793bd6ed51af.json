@@ -295,9 +295,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2022-04-10 15:16:45 +0000",
       "apple": "2022-04-10 10:37:10 +0000",
       "bread": "2022-04-10 10:26:02 +0000",
-      "cod": "2022-04-10 10:36:47 +0000"
+      "cod": "2022-04-10 10:36:47 +0000",
+      "cooked_salmon": "2022-04-10 15:18:27 +0000"
     },
     "done": false
   },
@@ -625,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2022-04-10 15:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2022-04-10 10:09:06 +0000",
@@ -747,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2022-04-10 15:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-04-10 10:13:45 +0000"
@@ -857,7 +871,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2022-04-10 15:05:59 +0000"
+      "minecraft:zombie": "2022-04-10 15:05:59 +0000",
+      "minecraft:zombie_villager": "2022-04-10 15:18:50 +0000"
     },
     "done": false
   },
