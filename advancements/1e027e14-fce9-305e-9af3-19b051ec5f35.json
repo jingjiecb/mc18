@@ -368,6 +368,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-04-09 16:23:45 +0000",
+      "cooked_beef": "2022-04-10 15:57:22 +0000",
       "potato": "2022-04-09 17:19:41 +0000",
       "bread": "2022-04-09 15:57:22 +0000",
       "cooked_salmon": "2022-04-09 17:27:51 +0000"
@@ -1777,6 +1778,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-04-10 15:56:18 +0000",
       "minecraft:sunflower_plains": "2022-04-10 15:34:40 +0000",
       "minecraft:river": "2022-04-09 16:16:03 +0000",
       "minecraft:dripstone_caves": "2022-04-10 13:57:40 +0000",

@@ -884,6 +884,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-04-10 15:58:06 +0000",
       "minecraft:skeleton": "2022-04-10 13:47:12 +0000",
       "minecraft:spider": "2022-04-10 13:35:08 +0000",
       "minecraft:creeper": "2022-04-10 13:47:04 +0000",
@@ -981,6 +982,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2022-04-10 13:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-04-10 15:58:21 +0000"
     },
     "done": true
   },
@@ -1245,6 +1252,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-04-10 12:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-04-10 15:58:02 +0000"
     },
     "done": true
   },
