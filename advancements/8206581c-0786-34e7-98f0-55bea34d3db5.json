@@ -722,7 +722,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2022-04-10 13:47:12 +0000",
       "minecraft:spider": "2022-04-10 13:35:08 +0000",
+      "minecraft:creeper": "2022-04-10 13:47:04 +0000",
       "minecraft:zombie": "2022-04-10 13:34:41 +0000"
     },
     "done": false
@@ -736,6 +738,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-10 12:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-04-10 13:48:57 +0000"
     },
     "done": true
   },
@@ -814,6 +822,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2022-04-10 12:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-04-10 13:48:50 +0000"
     },
     "done": true
   },
@@ -1403,6 +1417,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2022-04-10 12:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-04-10 13:48:50 +0000"
     },
     "done": true
   },
