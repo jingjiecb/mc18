@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-04-10 15:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-04-10 10:24:31 +0000"
@@ -871,6 +877,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2022-04-10 15:24:14 +0000",
+      "minecraft:spider": "2022-04-10 15:20:30 +0000",
       "minecraft:zombie": "2022-04-10 15:05:59 +0000",
       "minecraft:zombie_villager": "2022-04-10 15:18:50 +0000"
     },
