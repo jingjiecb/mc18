@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-04-10 16:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-04-10 12:37:06 +0000"
@@ -886,10 +892,12 @@
     "criteria": {
       "minecraft:pillager": "2022-04-10 15:58:06 +0000",
       "minecraft:skeleton": "2022-04-10 13:47:12 +0000",
+      "minecraft:ravager": "2022-04-10 16:06:44 +0000",
       "minecraft:vindicator": "2022-04-10 16:01:45 +0000",
       "minecraft:spider": "2022-04-10 13:35:08 +0000",
       "minecraft:creeper": "2022-04-10 13:47:04 +0000",
       "minecraft:slime": "2022-04-10 13:58:57 +0000",
+      "minecraft:phantom": "2022-04-10 16:05:55 +0000",
       "minecraft:witch": "2022-04-10 14:03:38 +0000",
       "minecraft:enderman": "2022-04-10 14:07:38 +0000",
       "minecraft:zombie": "2022-04-10 13:34:41 +0000"
