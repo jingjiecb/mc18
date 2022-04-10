@@ -720,6 +720,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2022-04-10 13:35:08 +0000",
+      "minecraft:zombie": "2022-04-10 13:34:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-04-10 12:36:20 +0000"
@@ -1230,6 +1237,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-04-10 13:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-04-10 12:36:20 +0000"
@@ -1300,6 +1313,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2022-04-10 13:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-04-10 13:35:09 +0000"
     },
     "done": true
   },
