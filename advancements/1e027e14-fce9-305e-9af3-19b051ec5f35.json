@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2022-04-10 14:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-04-10 10:13:00 +0000"
@@ -491,6 +497,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-04-09 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-04-10 14:14:12 +0000"
     },
     "done": true
   },
@@ -808,6 +820,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2022-04-10 14:14:09 +0000",
       "minecraft:slime": "2022-04-10 13:59:14 +0000",
       "minecraft:zombie": "2022-04-10 06:09:48 +0000"
     },
