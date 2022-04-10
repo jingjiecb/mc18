@@ -1771,6 +1771,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2022-04-10 15:34:40 +0000",
       "minecraft:river": "2022-04-09 16:16:03 +0000",
       "minecraft:dripstone_caves": "2022-04-10 13:57:40 +0000",
       "minecraft:forest": "2022-04-09 16:16:05 +0000",
