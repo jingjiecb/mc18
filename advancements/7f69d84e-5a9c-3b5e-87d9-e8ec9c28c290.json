@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2022-04-10 09:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-04-09 16:18:39 +0000"
@@ -253,6 +259,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2022-04-10 09:23:20 +0000",
       "beetroot": "2022-04-09 17:30:30 +0000",
       "cooked_chicken": "2022-04-09 16:48:22 +0000",
       "cooked_salmon": "2022-04-09 17:13:07 +0000"
@@ -349,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2022-04-10 09:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2022-04-09 17:39:14 +0000"
@@ -364,6 +377,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-04-09 17:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2022-04-10 09:23:31 +0000"
     },
     "done": true
   },
@@ -421,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2022-04-10 09:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2022-04-09 17:33:19 +0000"
@@ -448,6 +473,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2022-04-09 17:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2022-04-10 09:23:40 +0000"
     },
     "done": true
   },
@@ -649,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2022-04-10 09:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-04-09 16:32:45 +0000"
@@ -697,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2022-04-10 09:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-04-09 16:18:39 +0000"
@@ -721,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2022-04-10 09:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-04-09 16:25:46 +0000"
@@ -733,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-04-10 09:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-04-09 16:32:45 +0000"
@@ -742,6 +797,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2022-04-09 17:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2022-04-10 09:23:31 +0000"
     },
     "done": true
   },
@@ -808,6 +869,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2022-04-10 08:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2022-04-10 09:23:31 +0000"
     },
     "done": true
   },
@@ -1021,6 +1088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2022-04-10 09:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-04-09 17:01:50 +0000"
@@ -1030,6 +1103,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2022-04-09 17:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2022-04-10 09:23:35 +0000"
     },
     "done": true
   },
@@ -1120,6 +1199,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-04-09 17:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2022-04-10 09:23:31 +0000"
     },
     "done": true
   },
@@ -1237,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2022-04-10 09:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-04-09 16:17:06 +0000"
@@ -1309,6 +1400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-04-10 09:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
     "criteria": {
       "has_cut_copper": "2022-04-09 17:36:24 +0000"
@@ -1327,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2022-04-10 09:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2022-04-09 16:18:39 +0000"
@@ -1336,6 +1439,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 16:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2022-04-10 09:24:15 +0000"
     },
     "done": true
   },
@@ -1387,9 +1496,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2022-04-10 09:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-04-09 16:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2022-04-10 09:24:15 +0000"
     },
     "done": true
   },
