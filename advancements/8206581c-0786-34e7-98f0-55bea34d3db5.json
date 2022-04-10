@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-04-10 14:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2022-04-10 13:32:25 +0000"
@@ -786,6 +792,7 @@
       "minecraft:spider": "2022-04-10 13:35:08 +0000",
       "minecraft:creeper": "2022-04-10 13:47:04 +0000",
       "minecraft:slime": "2022-04-10 13:58:57 +0000",
+      "minecraft:witch": "2022-04-10 14:03:38 +0000",
       "minecraft:zombie": "2022-04-10 13:34:41 +0000"
     },
     "done": false
@@ -1081,6 +1088,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-04-10 13:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2022-04-10 14:00:38 +0000"
     },
     "done": true
   },
@@ -1394,6 +1407,7 @@
     "criteria": {
       "minecraft:river": "2022-04-10 12:37:35 +0000",
       "minecraft:dripstone_caves": "2022-04-10 13:57:06 +0000",
+      "minecraft:forest": "2022-04-10 13:59:37 +0000",
       "minecraft:plains": "2022-04-10 12:36:20 +0000"
     },
     "done": false
