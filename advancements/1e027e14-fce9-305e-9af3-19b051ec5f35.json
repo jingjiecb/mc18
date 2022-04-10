@@ -308,6 +308,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-04-10 06:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-04-09 13:49:57 +0000"
@@ -525,6 +531,12 @@
       "has_potato": "2022-04-09 14:16:14 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2022-04-10 06:09:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
