@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-04-10 06:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2022-04-10 05:57:43 +0000"
@@ -241,6 +247,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2022-04-10 06:27:23 +0000",
       "bread": "2022-04-10 05:58:13 +0000",
       "rotten_flesh": "2022-04-10 06:13:40 +0000"
     },
@@ -465,6 +472,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-04-10 05:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-04-10 06:28:12 +0000"
     },
     "done": true
   },
