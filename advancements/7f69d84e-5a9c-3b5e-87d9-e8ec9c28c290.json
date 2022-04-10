@@ -773,6 +773,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2022-04-10 10:10:10 +0000",
       "minecraft:zombie": "2022-04-10 10:00:18 +0000"
     },
     "done": false
@@ -1149,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-04-10 10:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2022-04-09 17:14:00 +0000"
@@ -1248,6 +1255,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 16:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-04-10 10:10:12 +0000"
     },
     "done": true
   },
