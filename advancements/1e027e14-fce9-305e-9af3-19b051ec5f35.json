@@ -1237,6 +1237,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2022-04-11 11:23:48 +0000",
       "minecraft:basalt_deltas": "2022-04-11 11:15:44 +0000"
     },
     "done": false
@@ -2113,6 +2114,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-10 09:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-04-11 11:24:09 +0000"
     },
     "done": true
   },
