@@ -321,6 +321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-11 05:22:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 17:20:11 +0000"
@@ -849,6 +855,7 @@
       "minecraft:spider": "2022-04-09 17:12:05 +0000",
       "minecraft:creeper": "2022-04-09 14:26:59 +0000",
       "minecraft:slime": "2022-04-10 13:59:17 +0000",
+      "minecraft:zombified_piglin": "2022-04-11 05:22:44 +0000",
       "minecraft:zombie": "2022-04-09 15:54:51 +0000"
     },
     "done": false
@@ -952,6 +959,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 17:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-11 05:22:48 +0000"
     },
     "done": true
   },
