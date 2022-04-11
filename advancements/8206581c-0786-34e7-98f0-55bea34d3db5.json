@@ -1063,6 +1063,7 @@
       "minecraft:river": "2022-04-10 12:37:35 +0000",
       "minecraft:dripstone_caves": "2022-04-10 13:57:06 +0000",
       "minecraft:forest": "2022-04-10 13:59:37 +0000",
+      "minecraft:meadow": "2022-04-11 07:10:41 +0000",
       "minecraft:plains": "2022-04-10 12:36:20 +0000"
     },
     "done": false
@@ -2317,6 +2318,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-04-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-04-11 07:13:50 +0000"
     },
     "done": true
   },
