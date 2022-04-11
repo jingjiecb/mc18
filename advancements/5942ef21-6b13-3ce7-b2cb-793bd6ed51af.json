@@ -785,15 +785,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2022-04-10 15:25:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_the_recipe": "2022-04-10 15:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-04-10 15:25:42 +0000"
     },
     "done": true
   },
@@ -909,6 +909,7 @@
     "criteria": {
       "minecraft:skeleton": "2022-04-10 15:24:14 +0000",
       "minecraft:spider": "2022-04-10 15:20:30 +0000",
+      "minecraft:creeper": "2022-04-11 01:17:29 +0000",
       "minecraft:phantom": "2022-04-10 15:26:49 +0000",
       "minecraft:zombie": "2022-04-10 15:05:59 +0000",
       "minecraft:drowned": "2022-04-10 15:24:47 +0000",
