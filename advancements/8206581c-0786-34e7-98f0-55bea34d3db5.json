@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-04-11 08:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-04-11 04:27:01 +0000"
@@ -1958,6 +1964,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2022-04-10 12:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-04-11 08:29:07 +0000"
     },
     "done": true
   },
