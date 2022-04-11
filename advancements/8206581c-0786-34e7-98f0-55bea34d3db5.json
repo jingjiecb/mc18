@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2022-04-11 03:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-04-10 13:09:42 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2022-04-11 03:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2022-04-10 12:36:20 +0000"
@@ -368,6 +380,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2022-04-10 16:10:08 +0000",
+      "golden_apple": "2022-04-11 03:57:06 +0000",
       "cooked_chicken": "2022-04-10 12:36:37 +0000"
     },
     "done": false
@@ -375,6 +388,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-04-10 12:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-11 03:54:33 +0000"
     },
     "done": true
   },
@@ -618,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2022-04-11 03:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-04-10 12:36:20 +0000"
@@ -683,6 +708,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-04-10 12:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2022-04-11 03:58:39 +0000"
     },
     "done": true
   },
@@ -1151,6 +1182,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-04-10 12:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-11 03:54:33 +0000"
     },
     "done": true
   },
@@ -1832,6 +1869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2022-04-11 03:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-10 12:36:20 +0000"
@@ -2007,6 +2050,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-04-10 13:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-04-11 03:58:39 +0000"
     },
     "done": true
   },
