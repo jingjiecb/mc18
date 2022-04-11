@@ -484,6 +484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2022-04-11 09:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 17:20:11 +0000"
@@ -676,6 +682,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-04-10 03:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2022-04-11 09:53:15 +0000"
     },
     "done": true
   },
@@ -913,6 +925,7 @@
       "minecraft:slime": "2022-04-10 13:59:17 +0000",
       "minecraft:zombified_piglin": "2022-04-11 05:22:44 +0000",
       "minecraft:cave_spider": "2022-04-11 06:26:06 +0000",
+      "minecraft:enderman": "2022-04-11 09:55:58 +0000",
       "minecraft:zombie": "2022-04-09 15:54:51 +0000",
       "minecraft:zombie_villager": "2022-04-11 05:50:22 +0000"
     },
@@ -1672,6 +1685,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-04-09 14:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-04-11 09:53:41 +0000"
     },
     "done": true
   },
