@@ -508,6 +508,7 @@
       "minecraft:creeper": "2022-04-10 13:47:04 +0000",
       "minecraft:slime": "2022-04-10 13:58:57 +0000",
       "minecraft:phantom": "2022-04-10 16:05:55 +0000",
+      "minecraft:zombified_piglin": "2022-04-11 11:05:24 +0000",
       "minecraft:witch": "2022-04-10 14:03:38 +0000",
       "minecraft:cave_spider": "2022-04-11 06:26:00 +0000",
       "minecraft:enderman": "2022-04-10 14:07:38 +0000",
@@ -1112,6 +1113,7 @@
       "minecraft:dripstone_caves": "2022-04-10 13:57:06 +0000",
       "minecraft:forest": "2022-04-10 13:59:37 +0000",
       "minecraft:meadow": "2022-04-11 07:10:41 +0000",
+      "minecraft:savanna": "2022-04-11 11:06:08 +0000",
       "minecraft:plains": "2022-04-10 12:36:20 +0000"
     },
     "done": false
