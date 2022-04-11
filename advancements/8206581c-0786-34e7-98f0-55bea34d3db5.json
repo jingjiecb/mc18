@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2022-04-11 03:50:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-10 12:36:20 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-04-10 12:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2022-04-11 03:50:52 +0000"
     },
     "done": true
   },
@@ -1007,6 +1019,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-04-11 03:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2022-04-11 03:50:52 +0000"
     },
     "done": true
   },
