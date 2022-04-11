@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-04-11 09:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2022-04-10 06:44:21 +0000"
@@ -320,6 +326,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-04-09 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-04-11 09:02:18 +0000"
     },
     "done": true
   },
@@ -1824,6 +1836,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-04-10 14:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-04-11 09:04:57 +0000"
     },
     "done": true
   },
