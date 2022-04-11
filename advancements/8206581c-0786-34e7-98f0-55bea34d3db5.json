@@ -1039,6 +1039,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-04-11 05:37:35 +0000",
       "minecraft:sunflower_plains": "2022-04-10 15:11:34 +0000",
       "minecraft:river": "2022-04-10 12:37:35 +0000",
       "minecraft:dripstone_caves": "2022-04-10 13:57:06 +0000",

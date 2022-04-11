@@ -1474,6 +1474,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-04-11 05:37:40 +0000",
       "minecraft:river": "2022-04-09 16:54:05 +0000",
       "minecraft:dripstone_caves": "2022-04-10 13:57:11 +0000",
       "minecraft:forest": "2022-04-09 17:08:44 +0000",
