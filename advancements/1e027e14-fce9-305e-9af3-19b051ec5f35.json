@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2022-04-11 11:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-10 09:54:49 +0000"
@@ -470,6 +476,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-04-09 16:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2022-04-11 11:46:50 +0000"
     },
     "done": true
   },
@@ -2229,6 +2241,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-10 09:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2022-04-11 11:46:50 +0000"
     },
     "done": true
   },
