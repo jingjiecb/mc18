@@ -507,6 +507,7 @@
     "criteria": {
       "minecraft:pillager": "2022-04-11 08:19:11 +0000",
       "minecraft:skeleton": "2022-04-10 14:59:52 +0000",
+      "minecraft:magma_cube": "2022-04-11 11:16:56 +0000",
       "minecraft:spider": "2022-04-11 08:08:19 +0000",
       "minecraft:creeper": "2022-04-10 14:14:09 +0000",
       "minecraft:slime": "2022-04-10 13:59:14 +0000",
@@ -1234,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2022-04-11 11:15:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2022-04-10 13:36:17 +0000"
@@ -1351,6 +1358,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-04-10 06:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-04-11 11:15:44 +0000"
     },
     "done": true
   },
@@ -1872,6 +1885,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-04-10 14:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-04-11 11:15:44 +0000"
     },
     "done": true
   },
