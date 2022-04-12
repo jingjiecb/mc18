@@ -2416,6 +2416,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/white.png": "2022-04-12 15:10:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2022-04-10 07:38:12 +0000"
