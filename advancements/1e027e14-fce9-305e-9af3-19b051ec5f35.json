@@ -2927,6 +2927,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/white.png": "2022-04-12 15:37:30 +0000",
       "textures/entity/cat/persian.png": "2022-04-12 12:54:13 +0000"
     },
     "done": false
