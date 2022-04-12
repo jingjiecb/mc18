@@ -1406,7 +1406,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2022-04-11 11:23:48 +0000",
-      "minecraft:basalt_deltas": "2022-04-11 11:15:44 +0000"
+      "minecraft:basalt_deltas": "2022-04-11 11:15:44 +0000",
+      "minecraft:warped_forest": "2022-04-12 09:47:40 +0000"
     },
     "done": false
   },
