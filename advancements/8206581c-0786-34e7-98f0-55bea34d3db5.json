@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2022-04-12 02:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2022-04-11 03:02:44 +0000"
@@ -1743,6 +1749,7 @@
       "cooked_beef": "2022-04-11 09:19:58 +0000",
       "apple": "2022-04-10 16:10:08 +0000",
       "golden_apple": "2022-04-11 03:57:06 +0000",
+      "bread": "2022-04-12 02:05:31 +0000",
       "cooked_chicken": "2022-04-10 12:36:37 +0000"
     },
     "done": false
@@ -1858,6 +1865,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2022-04-10 12:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2022-04-12 02:05:14 +0000"
     },
     "done": true
   },
