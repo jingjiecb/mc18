@@ -2905,6 +2905,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/persian.png": "2022-04-12 12:54:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-04-10 10:02:58 +0000"

@@ -448,6 +448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-04-12 12:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 17:20:11 +0000"
@@ -1268,6 +1274,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-04-11 11:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-04-12 12:56:25 +0000"
     },
     "done": true
   },
@@ -2153,6 +2165,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2022-04-10 14:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-04-12 12:56:25 +0000"
     },
     "done": true
   },
