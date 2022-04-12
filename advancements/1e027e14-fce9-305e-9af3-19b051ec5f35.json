@@ -587,6 +587,7 @@
       "minecraft:zombified_piglin": "2022-04-12 08:35:17 +0000",
       "minecraft:wither_skeleton": "2022-04-12 08:55:36 +0000",
       "minecraft:zombie": "2022-04-10 06:09:48 +0000",
+      "minecraft:drowned": "2022-04-12 10:42:21 +0000",
       "minecraft:zombie_villager": "2022-04-11 12:51:18 +0000"
     },
     "done": false
@@ -600,6 +601,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2022-04-09 16:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-04-12 10:39:33 +0000"
     },
     "done": true
   },
@@ -2229,6 +2236,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2022-04-11 11:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-04-12 10:39:11 +0000"
     },
     "done": true
   },
