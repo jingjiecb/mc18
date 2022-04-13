@@ -2566,7 +2566,8 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2022-04-12 15:10:28 +0000",
-      "textures/entity/cat/british_shorthair.png": "2022-04-13 03:26:50 +0000"
+      "textures/entity/cat/british_shorthair.png": "2022-04-13 03:26:50 +0000",
+      "textures/entity/cat/red.png": "2022-04-13 14:27:44 +0000"
     },
     "done": false
   },
