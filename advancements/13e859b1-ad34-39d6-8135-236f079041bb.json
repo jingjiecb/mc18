@@ -50,6 +50,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-04-13 12:57:04 +0000",
+      "minecraft:magma_cube": "2022-04-13 13:09:40 +0000",
       "minecraft:spider": "2022-04-13 13:00:16 +0000",
       "minecraft:zombie": "2022-04-13 12:55:40 +0000"
     },
@@ -117,6 +118,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-04-13 13:04:54 +0000",
       "minecraft:plains": "2022-04-13 12:40:45 +0000"
     },
     "done": false
@@ -136,6 +138,18 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2022-04-13 12:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-04-13 13:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-04-13 13:06:34 +0000"
     },
     "done": true
   },
