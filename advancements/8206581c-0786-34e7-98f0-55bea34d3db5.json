@@ -732,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2022-04-13 03:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2022-04-10 12:49:29 +0000"
