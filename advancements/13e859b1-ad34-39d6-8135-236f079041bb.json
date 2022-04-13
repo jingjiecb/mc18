@@ -1,7 +1,7 @@
 {
-  "minecraft:story/obtain_armor": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "iron_leggings": "2022-04-13 12:47:46 +0000"
+      "slept_in_bed": "2022-04-13 12:51:25 +0000"
     },
     "done": true
   },
@@ -11,15 +11,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "cooked_beef": "2022-04-13 12:46:46 +0000"
+      "has_wheat": "2022-04-13 12:52:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-04-13 12:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-04-13 12:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-04-13 12:52:33 +0000"
     },
     "done": true
   },
@@ -29,9 +41,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-04-13 12:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2022-04-13 12:53:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-04-13 12:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-04-13 12:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2022-04-13 12:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-04-13 12:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-04-13 12:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2022-04-13 12:46:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-04-13 12:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-04-13 12:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2022-04-13 12:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-04-13 12:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2022-04-13 12:52:33 +0000"
     },
     "done": true
   },
