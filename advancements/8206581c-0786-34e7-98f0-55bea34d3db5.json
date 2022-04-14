@@ -1178,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-04-14 13:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-04-12 02:19:29 +0000"
@@ -3617,6 +3623,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/black.png": "2022-04-14 12:57:56 +0000",
+      "textures/entity/cat/jellie.png": "2022-04-14 13:00:08 +0000",
       "textures/entity/cat/siamese.png": "2022-04-12 06:08:31 +0000",
       "textures/entity/cat/british_shorthair.png": "2022-04-14 10:49:21 +0000",
       "textures/entity/cat/persian.png": "2022-04-14 08:34:38 +0000"
