@@ -1576,6 +1576,7 @@
       "minecraft:taiga": "2022-04-13 03:09:34 +0000",
       "minecraft:river": "2022-04-10 10:09:06 +0000",
       "minecraft:forest": "2022-04-10 10:09:08 +0000",
+      "minecraft:savanna": "2022-04-14 05:28:15 +0000",
       "minecraft:plains": "2022-04-10 10:03:56 +0000"
     },
     "done": false
@@ -1810,6 +1811,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2022-04-14 05:27:31 +0000",
       "minecraft:basalt_deltas": "2022-04-13 03:08:19 +0000"
     },
     "done": false
