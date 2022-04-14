@@ -1037,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-04-14 05:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-04-10 10:14:31 +0000"
@@ -1046,6 +1052,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-04-11 02:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-04-14 05:54:46 +0000"
     },
     "done": true
   },
@@ -1760,6 +1772,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2022-04-10 10:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-04-14 05:54:46 +0000"
     },
     "done": true
   },
