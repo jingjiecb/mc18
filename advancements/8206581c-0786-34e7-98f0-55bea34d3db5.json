@@ -3559,7 +3559,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/siamese.png": "2022-04-12 06:08:31 +0000"
+      "textures/entity/cat/siamese.png": "2022-04-12 06:08:31 +0000",
+      "textures/entity/cat/persian.png": "2022-04-14 08:34:38 +0000"
     },
     "done": false
   },
