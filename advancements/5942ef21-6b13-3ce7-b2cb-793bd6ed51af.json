@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2022-04-14 06:16:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-04-11 13:18:00 +0000"
@@ -866,6 +872,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-04-10 10:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2022-04-14 06:16:09 +0000"
     },
     "done": true
   },
