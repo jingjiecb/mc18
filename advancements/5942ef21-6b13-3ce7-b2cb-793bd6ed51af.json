@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-04-10 10:34:15 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-04-11 12:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
     },
     "done": true
   },
@@ -1025,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-04-11 02:28:20 +0000"
@@ -1046,6 +1064,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-04-10 10:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
     },
     "done": true
   },
@@ -1163,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2022-04-10 10:24:27 +0000"
@@ -1217,6 +1247,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-04-14 06:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-04-10 10:34:15 +0000"
@@ -1226,6 +1268,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-04-12 06:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-04-14 06:10:27 +0000"
     },
     "done": true
   },
@@ -1493,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2022-04-10 10:24:32 +0000"
@@ -1628,6 +1682,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-04-11 02:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
     },
     "done": true
   },
@@ -1778,6 +1838,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-04-14 05:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-14 06:10:56 +0000"
     },
     "done": true
   },
