@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2022-04-15 03:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-04-13 13:19:56 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-13 13:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-04-15 03:41:14 +0000"
     },
     "done": true
   },
@@ -565,6 +577,7 @@
       "minecraft:skeleton": "2022-04-13 12:57:04 +0000",
       "minecraft:magma_cube": "2022-04-13 13:09:40 +0000",
       "minecraft:spider": "2022-04-13 13:00:16 +0000",
+      "minecraft:creeper": "2022-04-15 03:44:42 +0000",
       "minecraft:zombified_piglin": "2022-04-13 14:01:53 +0000",
       "minecraft:zombie": "2022-04-13 12:55:40 +0000"
     },
