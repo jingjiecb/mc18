@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-04-15 04:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2022-04-15 03:48:58 +0000"
@@ -634,6 +640,7 @@
       "minecraft:magma_cube": "2022-04-13 13:09:40 +0000",
       "minecraft:spider": "2022-04-13 13:00:16 +0000",
       "minecraft:creeper": "2022-04-15 03:44:42 +0000",
+      "minecraft:phantom": "2022-04-15 04:10:21 +0000",
       "minecraft:zombified_piglin": "2022-04-13 14:01:53 +0000",
       "minecraft:vex": "2022-04-15 04:05:30 +0000",
       "minecraft:zombie": "2022-04-13 12:55:40 +0000"
