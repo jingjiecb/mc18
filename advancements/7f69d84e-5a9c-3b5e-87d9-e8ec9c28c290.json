@@ -348,6 +348,7 @@
       "cookie": "2022-04-11 17:16:34 +0000",
       "beetroot": "2022-04-09 17:30:30 +0000",
       "cooked_chicken": "2022-04-09 16:48:22 +0000",
+      "cod": "2022-04-16 10:26:00 +0000",
       "cooked_salmon": "2022-04-09 17:13:07 +0000"
     },
     "done": false
@@ -1852,6 +1853,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-04-09 17:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2022-04-16 10:24:04 +0000"
     },
     "done": true
   },
