@@ -669,10 +669,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2022-04-13 13:04:54 +0000",
+      "minecraft:sunflower_plains": "2022-04-17 08:44:53 +0000",
+      "minecraft:windswept_hills": "2022-04-17 08:44:41 +0000",
       "minecraft:beach": "2022-04-17 08:39:25 +0000",
       "minecraft:lukewarm_ocean": "2022-04-17 08:39:34 +0000",
+      "minecraft:river": "2022-04-17 08:41:35 +0000",
       "minecraft:forest": "2022-04-17 06:55:02 +0000",
       "minecraft:ocean": "2022-04-13 13:35:45 +0000",
+      "minecraft:windswept_savanna": "2022-04-17 08:44:20 +0000",
+      "minecraft:old_growth_birch_forest": "2022-04-17 08:41:27 +0000",
       "minecraft:savanna": "2022-04-17 08:35:10 +0000",
       "minecraft:plains": "2022-04-13 12:40:45 +0000"
     },
