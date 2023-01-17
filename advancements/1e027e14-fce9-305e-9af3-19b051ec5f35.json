@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-01-17 12:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2022-04-10 10:46:04 +0000"
@@ -1771,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-01-17 12:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2022-04-12 12:49:41 +0000"
@@ -1971,6 +1983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-01-17 12:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-04-10 06:32:31 +0000"
@@ -2046,6 +2064,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-01-17 12:28:35 +0000"
     },
     "done": true
   },
@@ -2223,6 +2247,7 @@
       "honey_bottle": "2023-01-12 15:27:02 +0000",
       "cooked_mutton": "2022-04-11 08:56:36 +0000",
       "cooked_beef": "2022-04-10 15:57:22 +0000",
+      "apple": "2023-01-17 12:42:35 +0000",
       "potato": "2022-04-09 17:19:41 +0000",
       "cooked_cod": "2023-01-14 08:26:04 +0000",
       "pumpkin_pie": "2022-04-13 07:08:31 +0000",
@@ -2232,6 +2257,7 @@
       "dried_kelp": "2023-01-14 08:24:13 +0000",
       "melon_slice": "2023-01-14 08:22:19 +0000",
       "golden_carrot": "2023-01-14 08:32:06 +0000",
+      "cooked_chicken": "2023-01-17 12:45:55 +0000",
       "cooked_salmon": "2022-04-09 17:27:51 +0000",
       "carrot": "2023-01-14 08:24:05 +0000"
     },
@@ -3562,6 +3588,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-04-10 10:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-01-17 12:28:35 +0000"
     },
     "done": true
   },
