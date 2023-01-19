@@ -1,19 +1,7 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2023-01-12 01:44:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-01-12 01:46:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2023-01-12 01:44:51 +0000"
     },
     "done": true
   },
@@ -23,15 +11,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "in_water": "2023-01-12 01:44:51 +0000"
+      "consumed_item": "2023-01-19 03:20:51 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "killed_something": "2023-01-12 01:46:16 +0000"
+      "in_water": "2023-01-12 01:44:51 +0000"
     },
     "done": true
   },
@@ -41,17 +29,41 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2023-01-12 01:44:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2023-01-12 01:46:16 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-01-12 01:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-12 01:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2023-01-19 03:20:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-01-12 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-01-12 01:44:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
